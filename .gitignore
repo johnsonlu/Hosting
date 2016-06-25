@@ -252,3 +252,9 @@ paket-files/
 .idea/
 *.sln.iml
 
+# VS2015
+.vs/
+
+# .NET core
+project.lock.json
+
